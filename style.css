@@ -1,0 +1,61 @@
+body {
+  background: #ffcc00;
+}
+
+#main {
+  width: 500px;
+  height: 300px;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg");
+  background-size: contain;
+  overflow: hidden;
+}
+
+#mario {
+  background: url("https://i.pinimg.com/originals/f5/75/2c/f5752c7c9f03832209f0bb8b57214281.gif")
+    no-repeat;
+  width: 512px;
+  height: 256px;
+  position: absolute;
+  left: 0px;
+}
+
+#left {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  float: left;
+}
+
+#right {
+  width: 125px;
+  height: 125px;
+  overflow: hidden;
+}
+
+h1 {
+  background: #ff0000;
+  color: #ffffff;
+}
+
+.blue {
+  color: blue;
+}
+
+span {
+  color: yellow;
+  font-size: 10px;
+  background: green;
+}
+
+.green {
+  color: green;
+}
+
+p {
+  background: #0000ff;
+  color: #009900;
+}
+
+a {
+  color: #00ffff;
+}
